@@ -1,6 +1,6 @@
 .city-card {
-  width: 30%;
-  height: 10rem;
+  width: 10%;
+  height: 5rem;
   border-radius: 10px;
   background-position: center;
   background-size: cover;
@@ -19,7 +19,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 2rem;
     color: white;
     text-transform: capitalize;
     background-color: rgba(59, 59, 59, 0.5);
@@ -33,7 +32,7 @@
     cursor: pointer;
 
     .city-card__name {
-      font-size: 3rem;
+      font-size: 1.2rem;
     }
   }
 }
