@@ -3,33 +3,15 @@
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
-  background-color: #0C131F;
+  height: 100vh;
+  background: #0c131f;
+  background: url(../../public/images/fondgare.jpg) center/cover;
 }
 
-html,
-body,
-nav,
-header,
-footer,
-div,
-span,
-h1,
-h2,
-h3,
-p,
-a,
-img,
-ul,
-li,
-table,
-form,
-label,
-input,
-textarea,
-select,
-button {
+* {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 ul {

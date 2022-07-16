@@ -50,5 +50,14 @@
   },
   "grau du roi": {
     "Gare grau du roi": "stop_area:SNCF:87775866"
+  },
+  "dusseldorf": {
+    "Gare de Dusseldorf": "stop_area:SNCF:80080945"
+  },
+  "de gaulle": {
+    "Gare de l'aeroport Charles de Gaulle": "stop_area:SNCF:87271494"
+  },
+  "nimes": {
+    "Gare de nimes": "stop_area:SNCF:87775007"
   }
 }
