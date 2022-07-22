@@ -11,7 +11,7 @@ function Stops({ idDeparture }) {
         `https://api.sncf.com/v1/coverage/sncf/vehicle_journeys/${idDeparture}`,
         {
           headers: {
-            Authorization: `${process.env.REACT_APP_API_KEY}`,
+            Authorization: '35d6a12f-e7cc-466a-9ab9-4cc3cc2ce68f',
           },
         }
       )
