@@ -15,7 +15,7 @@ function Departures() {
       `https://api.sncf.com/v1/coverage/sncf/stop_areas/${codeStation}/departures`,
       {
         headers: {
-          Authorization: '35d6a12f-e7cc-466a-9ab9-4cc3cc2ce68f',
+          Authorization: `${process.env.REACT_APP_API_KEY}`,
         },
       }
     )
