@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1dadba30.css",
+    "main.js": "/static/js/main.72e6edef.js",
+    "static/media/fondgare.jpg": "/static/media/fondgare.681cd7fa1d3b81e0ef9b.jpg",
+    "index.html": "/index.html",
+    "main.1dadba30.css.map": "/static/css/main.1dadba30.css.map",
+    "main.72e6edef.js.map": "/static/js/main.72e6edef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dadba30.css",
+    "static/js/main.72e6edef.js"
+  ]
+}
